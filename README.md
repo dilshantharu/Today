@@ -7,6 +7,18 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
   <img src="https://github.com/dilshantharu/Today/blob/f51a8c00ae241c40808072c48483530198df74d8/Img/Screenshot_20231004_160646_io.spck.jpg" width="300" />
 </p>
 
+
+  
+## Features
+
+- **Auto-Update:** "Today" automatically refreshes weather information at regular intervals, ensuring you receive the latest data.
+- **Weather APIs:** We use reliable weather APIs to provide accurate and real-time weather information for your selected locations.
+- **News Integration:** Stay informed about current events with our integrated news section.
+- **Manual Search:** Easily search for weather forecasts for specific locations.
+- **Current Location:** Detect and display weather data for your current location with just one click.
+
+## Languages
+
 <div id="badges">
   <a href="html">
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
@@ -18,14 +30,6 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
   </a>
 </div>
-  
-## Features
-
-- **Auto-Update:** "Today" automatically refreshes weather information at regular intervals, ensuring you receive the latest data.
-- **Weather APIs:** We use reliable weather APIs to provide accurate and real-time weather information for your selected locations.
-- **News Integration:** Stay informed about current events with our integrated news section.
-- **Manual Search:** Easily search for weather forecasts for specific locations.
-- **Current Location:** Detect and display weather data for your current location with just one click.
 
 ## Usage
 
