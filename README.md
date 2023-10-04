@@ -5,7 +5,7 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 ## Screenshots
 
 <img src="https://github.com/dilshantharu/Today/blob/3139125b9bc027b3db23d3a78948d0e02f256072/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" height="200">
-<img src="your_image_url_here" width="300" height="200">
+<img src="your_image_url_here" width="150" height="250">
 <img src="your_image_url_here" width="300" height="200">
 ## Features
 
