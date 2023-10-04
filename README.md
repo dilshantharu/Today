@@ -3,13 +3,13 @@
 Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.<br><br>
 <div id="badges">
   <a href="html">
-    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
   </a>
   <a href="css">
-    <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   </a>
   <a href="javascript">
-    <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
   </a>
 </div>
 ## Screenshots
