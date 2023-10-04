@@ -1,6 +1,12 @@
 # Today Weather Website
 
-Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.<br><br>
+Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.<br>
+## Screenshots
+<p float="left">
+  <img src="https://github.com/dilshantharu/Today/blob/623ecfd8fe8240a350809b0f344399544f4f9d4e/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" /> 
+  <img src="https://github.com/dilshantharu/Today/blob/f51a8c00ae241c40808072c48483530198df74d8/Img/Screenshot_20231004_160646_io.spck.jpg" width="300" />
+</p>
+
 <div id="badges">
   <a href="html">
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
@@ -12,11 +18,6 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
   </a>
 </div>
-## Screenshots
-<p float="left">
-  <img src="https://github.com/dilshantharu/Today/blob/623ecfd8fe8240a350809b0f344399544f4f9d4e/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" /> 
-  <img src="https://github.com/dilshantharu/Today/blob/f51a8c00ae241c40808072c48483530198df74d8/Img/Screenshot_20231004_160646_io.spck.jpg" width="300" />
-</p>
   
 ## Features
 
