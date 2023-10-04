@@ -2,7 +2,7 @@
 
 Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.<br><br>
 <div id="badges"
-    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/
     <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <a href="your-Facebook-URL">
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
