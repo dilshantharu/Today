@@ -4,9 +4,9 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/dilshantharu/Today/blob/3139125b9bc027b3db23d3a78948d0e02f256072/Img/Screenshot_20231004_160557_io.spck.jpg)
-![Screenshot 2](path_to_your_screenshot/screenshot2.png)
-
+<img src="https://github.com/dilshantharu/Today/blob/3139125b9bc027b3db23d3a78948d0e02f256072/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" height="200">
+<img src="your_image_url_here" width="300" height="200">
+<img src="your_image_url_here" width="300" height="200">
 ## Features
 
 - **Auto-Update:** "Today" automatically refreshes weather information at regular intervals, ensuring you receive the latest data.
