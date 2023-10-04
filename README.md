@@ -41,5 +41,8 @@ We'd like to thank the creators of the weather APIs we use, as well as the open-
 ## Contact
 
 For inquiries, you can contact Tharusha Dilshan at tharushagdtd98@gmail.com.
+You can remove my description from the code files. Please reserve rights
+
+**By Tharusha Dilshan**
 
 Enjoy using "Today" for all your weather and news needs!
