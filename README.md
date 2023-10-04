@@ -18,7 +18,7 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 
 ## Installation
 
-No installation is required. Simply visit our website at [https://github.com/dilshantharu/Today].
+No installation is required. Simply visit our website at https://github.com/dilshantharu/Today.
 
 ## Support and Contributions
 
@@ -34,6 +34,6 @@ We'd like to thank the creators of the weather APIs we use, as well as the open-
 
 ## Contact
 
-For inquiries, you can contact Tharusha Dilshan at [tharushagdtd98@gmail.com].
+For inquiries, you can contact Tharusha Dilshan at tharushagdtd98@gmail.com.
 
 Enjoy using "Today" for all your weather and news needs!
