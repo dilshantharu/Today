@@ -3,7 +3,7 @@
 Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.<br><br>
 ![Language](https://img.shields.io/badge/Html-blue)
 ![Language](https://img.shields.io/badge/Css-blue)
-![Language](https://img.shields.io/badge/Javascript-blue)
+![](https://img.shields.io/badge/Javascript-blue)
 ## Screenshots
 <p float="left">
   <img src="https://github.com/dilshantharu/Today/blob/623ecfd8fe8240a350809b0f344399544f4f9d4e/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" /> 
