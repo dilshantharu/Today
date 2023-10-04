@@ -44,5 +44,16 @@ For inquiries, you can contact Tharusha Dilshan at tharushagdtd98@gmail.com.
 You can remove my description from the code files. Please reserve rights
 
 **By Tharusha Dilshan**
+<div id="badges">
+  <a href="whatsap">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-Facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 Enjoy using "Today" for all your weather and news needs!
