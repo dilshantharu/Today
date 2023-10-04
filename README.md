@@ -4,6 +4,9 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 
 ## Screenshots
 
+![Screenshot 1](path_to_your_screenshot/screenshot1.png)
+![Screenshot 2](path_to_your_screenshot/screenshot2.png)
+
 ## Features
 
 - **Auto-Update:** "Today" automatically refreshes weather information at regular intervals, ensuring you receive the latest data.
