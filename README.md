@@ -2,6 +2,8 @@
 
 Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 
+## Screenshots
+
 ## Features
 
 - **Auto-Update:** "Today" automatically refreshes weather information at regular intervals, ensuring you receive the latest data.
@@ -26,7 +28,7 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
