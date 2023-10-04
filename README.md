@@ -6,6 +6,8 @@ Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 <p float="left">
   <img src="https://github.com/dilshantharu/Today/blob/623ecfd8fe8240a350809b0f344399544f4f9d4e/Img/Screenshot_20231004_160557_io.spck.jpg" width="300" /> 
   <img src="https://github.com/dilshantharu/Today/blob/f51a8c00ae241c40808072c48483530198df74d8/Img/Screenshot_20231004_160646_io.spck.jpg" width="300" />
+<img src="https://github.com/dilshantharu/Today/blob/1885bb4bd443a64d1eb6d167dbad7da3a36d977c/Img/Screenshot_20231004_160603_io.spck.jpg" width="300" />
+  
 </p>
   
 ## Features
