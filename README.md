@@ -3,12 +3,10 @@
 Welcome to "Today," a user-friendly weather website created by Tharusha Dilshan.
 
 ## Screenshots
-<div style="display:flex;>
-  
-  <img src="https://github.com/dilshantharu/Today/blob/f51a8c00ae241c40808072c48483530198df74d8/Img/Screenshot_20231004_160646_io.spck.jpg" width="50%" height="250">
-  <img src="https://github.com/dilshantharu/Today/blob/623ecfd8fe8240a350809b0f344399544f4f9d4e/Img/Screenshot_20231004_160557_io.spck.jpg" width="50%" height="250">
-  
- </div>
+<p float="left">
+  <img src="image1.jpg" width="300" />
+  <img src="image2.jpg" width="300" /> 
+</p>
   
 ## Features
 
