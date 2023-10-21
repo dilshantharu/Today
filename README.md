@@ -60,7 +60,7 @@ You can remove my description from the code files. Please reserve rights
 
 **By Tharusha Dilshan**
 <div id="badges">
-  <a href="whatsap">
+  <a href="https://wa.me/94729573664">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="your-youtube-URL">
